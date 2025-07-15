@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ram07791/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ram07791/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ram07791/leetcode/tree/master/0014-longest-common-prefix) |
+| [3396-valid-word](https://github.com/ram07791/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
 | ------- |
