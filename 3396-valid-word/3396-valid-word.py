@@ -19,7 +19,7 @@ class Solution(object):
                     vowels += 1
                 else:
                     consonants += 1
-            elif not c.isdigit():
+            elif  not c.isdigit():
                 return False
 
         return vowels >= 1 and consonants >= 1
