@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-          n = len(nums)
+        n = len(nums)
         dp = [dict() for _ in range(n)]
         ans = 1                   
 
