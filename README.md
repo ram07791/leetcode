@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ram07791/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ram07791/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ram07791/leetcode/tree/master/0015-3sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ram07791/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ram07791/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ram07791/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ram07791/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ram07791/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ram07791/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ram07791/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ram07791/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ram07791/leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ram07791/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
