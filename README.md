@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ram07791/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ram07791/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ram07791/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ram07791/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ram07791/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/ram07791/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ram07791/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ram07791/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ram07791/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ram07791/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ram07791/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
