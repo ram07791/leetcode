@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ram07791/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ram07791/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ram07791/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ram07791/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ram07791/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ram07791/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ram07791/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1813-maximum-erasure-value](https://github.com/ram07791/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ram07791/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ram07791/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ram07791/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ram07791/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ram07791/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
