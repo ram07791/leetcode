@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ram07791/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ram07791/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/ram07791/leetcode/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ram07791/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ram07791/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ram07791/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ram07791/leetcode/tree/master/0013-roman-to-integer) |
 | [1813-maximum-erasure-value](https://github.com/ram07791/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ram07791/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2689-rearranging-fruits](https://github.com/ram07791/leetcode/tree/master/2689-rearranging-fruits) |
 ## Linked List
 |  |
 | ------- |
@@ -96,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ram07791/leetcode/tree/master/0011-container-with-most-water) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ram07791/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/ram07791/leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ram07791/leetcode/tree/master/0015-3sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/ram07791/leetcode/tree/master/2689-rearranging-fruits) |
 ## Memoization
 |  |
 | ------- |
