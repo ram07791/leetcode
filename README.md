@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ram07791/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ram07791/leetcode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/ram07791/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ram07791/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-fruit-into-baskets](https://github.com/ram07791/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ram07791/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/ram07791/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ram07791/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/ram07791/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ram07791/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ram07791/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ram07791/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ram07791/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
