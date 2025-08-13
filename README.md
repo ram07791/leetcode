@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ram07791/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ram07791/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ram07791/leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/ram07791/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ram07791/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ram07791/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ram07791/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ram07791/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ram07791/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ram07791/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ram07791/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ram07791/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ram07791/leetcode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/ram07791/leetcode/tree/master/0900-reordered-power-of-2) |
