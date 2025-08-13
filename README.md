@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ram07791/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ram07791/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ram07791/leetcode/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/ram07791/leetcode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/ram07791/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ram07791/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ram07791/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ram07791/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/ram07791/leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
