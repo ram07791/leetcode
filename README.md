@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/ram07791/leetcode/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/ram07791/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ram07791/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3830-find-closest-person](https://github.com/ram07791/leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
