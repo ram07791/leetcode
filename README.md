@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ram07791/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ram07791/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ram07791/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ram07791/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ram07791/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ram07791/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ram07791/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ram07791/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ram07791/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ram07791/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ram07791/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ram07791/leetcode/tree/master/0342-power-of-four) |
 ## String
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ram07791/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ram07791/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ram07791/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/ram07791/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ram07791/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ram07791/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ram07791/leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/ram07791/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ram07791/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Segment Tree
 |  |
