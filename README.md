@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ram07791/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ram07791/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ram07791/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ram07791/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ram07791/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ram07791/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ram07791/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -262,11 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ram07791/leetcode/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/ram07791/leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ram07791/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ram07791/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ram07791/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ram07791/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ram07791/leetcode/tree/master/0342-power-of-four) |
