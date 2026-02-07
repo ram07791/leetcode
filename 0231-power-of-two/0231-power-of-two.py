@@ -4,8 +4,9 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        for x in range(31):
-            if 2**x == n:
-                return True
-        return False
-        
+        if n==0:
+            return False
+        if(n & n-1):
+            return False
+        return True
+    
