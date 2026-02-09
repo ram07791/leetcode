@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ram07791/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ram07791/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ram07791/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ram07791/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ram07791/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ram07791/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/ram07791/leetcode/tree/master/0498-diagonal-traverse) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ram07791/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ram07791/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ram07791/leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/ram07791/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ram07791/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ram07791/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ram07791/leetcode/tree/master/0342-power-of-four) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ram07791/leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/ram07791/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ram07791/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ram07791/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ram07791/leetcode/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ram07791/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
